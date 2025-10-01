@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Наши проекты</title>
     <link rel="stylesheet" href="css/styles.css">
+
 </head>
+
 <body>
     <header>
         <nav>
@@ -21,12 +24,13 @@
         <div id="projects-list" class="projects"></div>
     </main>
 
-    <footer>
-        <p>© 2025 Сайт-витрина</p>
+    <footer id="contacts">
+        <p>© 2025 Сайт-витрина. Все права защищены.</p>
     </footer>
 
     <!-- Диалог поиска -->
     <dialog id="searchDialog">
+
         <form method="dialog">
             <label for="searchInput">Введите название проекта:</label>
             <input type="text" id="searchInput" placeholder="Начните вводить...">
@@ -34,9 +38,12 @@
                 <button value="cancel">Закрыть</button>
             </menu>
         </form>
+
         <ul id="searchResults"></ul>
+
     </dialog>
 
     <script src="js/project.js"></script>
+    
 </body>
 </html>
