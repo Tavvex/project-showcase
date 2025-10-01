@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
             desc:""
         },
         {
-            name: "OneLib",
+            name: "OnLib",
             link: "projects/OneLib/main.html",
             desc:""
         },
