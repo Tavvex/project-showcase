@@ -35,6 +35,11 @@ document.addEventListener("DOMContentLoaded", () => {
             link: "projects/YapApp/main.html",
             desc:""
         }
+        {
+            name: "CRM",
+            link: "projects/CRM/main.html",
+            desc:""
+        }
 
         
     ];
