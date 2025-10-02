@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
             name: "YapApp",
             link: "projects/YapApp/main.html",
             desc:""
-        }
+        },
         {
             name: "CRM",
             link: "projects/CRM/main.html",
